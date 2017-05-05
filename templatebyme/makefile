@@ -1,0 +1,5 @@
+all:
+	pdflatex report_2017_sem2_16CS60R49.tex
+	biber report_2017_sem2_16CS60R49
+	pdflatex report_2017_sem2_16CS60R49.tex
+	pdflatex report_2017_sem2_16CS60R49.tex

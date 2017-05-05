@@ -1,0 +1,15 @@
+[0] Config.pm:340> INFO - This is Biber 2.4
+[0] Config.pm:343> INFO - Logfile is 'report_2017_sem2_16CS60R49.blg'
+[45] biber:287> INFO - === Fri Apr 21, 2017, 11:10:31
+[150] Biber.pm:348> INFO - Reading 'report_2017_sem2_16CS60R49.bcf'
+[313] Biber.pm:742> INFO - Found 5 citekeys in bib section 0
+[320] Biber.pm:3151> INFO - Processing section 0
+[355] Biber.pm:3308> INFO - Looking for bibtex format file 'report.bib' for section 0
+[364] bibtex.pm:1113> INFO - Decoding LaTeX character macros into UTF-8
+[369] bibtex.pm:974> INFO - Found BibTeX data source 'report.bib'
+[454] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[454] UCollate.pm:65> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[454] Biber.pm:3028> INFO - Sorting list 'none/global' of type 'entry' with scheme 'none' and locale 'en-US'
+[454] Biber.pm:3032> INFO - No sort tailoring available for locale 'en-US'
+[460] bbl.pm:519> INFO - Writing 'report_2017_sem2_16CS60R49.bbl' with encoding 'UTF-8'
+[475] bbl.pm:615> INFO - Output to report_2017_sem2_16CS60R49.bbl

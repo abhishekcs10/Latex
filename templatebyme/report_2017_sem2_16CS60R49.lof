@@ -1,0 +1,11 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces The Benchmark Codes (K-Kernel, W-Workload, A-Application, LOC-Lines Of Code)}}{11}{figure.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {2}{\ignorespaces Baseline Performance For OpenMp/SMPSs }}{12}{figure.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {3}{\ignorespaces The Benchmark Codes}}{13}{figure.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {4}{\ignorespaces Average contribution per core of the TBB runtime library on three PARSEC benchmarks }}{14}{figure.4}
